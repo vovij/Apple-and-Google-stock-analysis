@@ -1,4 +1,4 @@
-# Apple and Google stock analysis
+# Apple and Google stock price analysis
 One of the biggest and most prosperous technological businesses in the world, Google is
 recognized for its search engine and online advertising platform. Since its founding in 1998, the
 business has expanded quickly, entering new markets and sectors, including cloud computing,
